@@ -1,1 +1,4 @@
+agate==1.9.1
+annotated-types==0.7.0
+dbt-duckdb
 
